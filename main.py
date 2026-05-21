@@ -30,7 +30,6 @@ if not BOT_TOKEN:
     sys.exit(1)
 
 REQUIRED_CHANNELS = ["@FreeFireBoostBot"]
-GROrname"e"
 GROUP_JOIN_LINK = "https://t.me/kzlike06"
 OWNER_ID = 2020432246
 OWNER_USERNAME = "@gookukaa"
