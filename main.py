@@ -1,4 +1,4 @@
-import os
+username os
 import telebot
 import requests
 import time
@@ -28,7 +28,8 @@ if not BOT_TOKEN:
     logger.error("❌ BOT_TOKEN not found! Please set your bot token in environment variables.")
     sys.exit(1)
 
-REQUIRED_CHANNELS = ["@your channel username"]
+REQUIRED_CHANNELS = ["@FreeFireBoostBot"]
+GROrname"e"]
 GROUP_JOIN_LINK = "https://t.me/kzlike06"
 OWNER_ID = 2020432246
 OWNER_USERNAME = "@gookukaa"
