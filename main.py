@@ -1,5 +1,4 @@
-username os
-import telebot
+import is
 import requests
 import time
 import threading
