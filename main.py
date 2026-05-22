@@ -29,7 +29,7 @@ if not BOT_TOKEN:
     logger.error("❌ BOT_TOKEN not found! Please set your bot token in environment variables.")
     sys.exit(1)
 
-REQUIRED_CHANNELS = ["@like tutorial"]
+REQUIRED_CHANNELS = ["@liketutorial"]
 GROUP_JOIN_LINK = "https://t.me/kzlike06"
 OWNER_ID = 2020432246
 OWNER_USERNAME = "@gookukaa"
